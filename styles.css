@@ -1,1 +1,41 @@
 /*  your css code here. If applicable */
+.root{
+	background-color:rgb(135, 206, 235);
+}
+#first-child{
+	background-color:black;
+	color:white;
+}
+#nth-child(2){
+	color: solid black;
+}
+#last-child{
+	color:red;
+}
+.one{
+	background-color:white;
+	width:50%;
+	padding:10px;
+	font-size:22px;
+}
+.two{
+	background-color:grey;
+	width:50%;
+	padding:10px;
+}
+.three{
+	background-color:pink;
+	width:50%;
+	padding:10px;
+}
+.four{
+	background-color:grey;
+	width:50%;
+	padding:10px;
+}
+.five{
+	background-color:white;
+	width:50%;
+	padding:10px;
+	font-size:22px;
+}
