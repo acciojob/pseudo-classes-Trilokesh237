@@ -6,8 +6,8 @@
 	background-color:black;
 	color:white;
 }
-#nth-child(2){
-	color: solid black;
+#p:nth-child(2) {
+    color: black; /* or any standard text color you prefer */
 }
 #last-child{
 	color:red;
